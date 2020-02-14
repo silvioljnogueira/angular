@@ -28,7 +28,7 @@ export default [
       'domingo', 'segunda-feira', 'terça-feira', 'quarta-feira', 'quinta-feira', 'sexta-feira',
       'sábado'
     ],
-    ['domingo', 'segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sábado']
+    ['dom', 'seg', 'ter', 'qua', 'qui', 'sex', 'sáb']
   ],
   u,
   [
